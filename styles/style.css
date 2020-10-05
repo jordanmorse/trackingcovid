@@ -61,6 +61,7 @@ h5 {
     color: dimgrey;
     padding: 1em;
     display: block;
+    margin-bottom: 1em;
 }
 
 .text-center {
@@ -78,6 +79,7 @@ h5 {
 .card {
     background-color: #F5F5F5;
     border: none;
+    margin-bottom: 1em;
 }
 
 .card-title {
