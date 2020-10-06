@@ -10,7 +10,7 @@ function myFunction() {
     "method": "GET",
     "headers": {
       "x-rapidapi-host": "covid-19-global-tracker-with-regional-data.p.rapidapi.com",
-      "x-rapidapi-key": "705314089bmsh937500f2cfcffc1p1a50a8jsn1209ec5c3b61",
+      "x-rapidapi-key": "1442675ad0msh1700f9211fdca50p1e6d37jsn779c2ac75e7e",
       "x-authorization": "6179002e-6646-4852-be37-572758a58cbb"
     }
   }
@@ -41,7 +41,7 @@ function newFunction() {
 "method": "GET",
 "headers": {
     "x-rapidapi-host": "covid-19-global-tracker-with-regional-data.p.rapidapi.com",
-    "x-rapidapi-key": "09d06cecffmsh87ca121083d57d0p1ebd57jsn0be05f50ffbf",
+    "x-rapidapi-key": "1442675ad0msh1700f9211fdca50p1e6d37jsn779c2ac75e7e",
     "x-authorization": "6179002e-6646-4852-be37-572758a58cbb"
 }
 }
