@@ -11,7 +11,7 @@ https://www.youtube.com/iframe_api
 
 Github repo: https://github.com/jordanmorse/trackingcovid
 
-Website URL: 
+Website URL: https://jordanmorse.github.io/trackingcovid/
 
 Technologies used: HTML, CSS, JavaScript, jQuery, API, AJAX
 
